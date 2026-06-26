@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pocang000.github.io/techkering-com-cn/sitemap.xml
